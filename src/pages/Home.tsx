@@ -87,9 +87,11 @@ const AnimatedItem: React.FC<AnimatedItemProps> = ({
 const Home: React.FC = () => {
   // Sample data for slideshow
   const slideshowImages = [
-    "https://units.kln.ac.lk/cmu/images/2019/03/07/0t6a6656j.jpg",
-    "https://i.postimg.cc/9fwr6BMz/2023-01-03-4.jpg",
-    "https://i.postimg.cc/LsBfhTt5/Flux-Dev-A-serene-Buddha-statue-surrounded-by-vibrant-glowing-3.jpg",
+    "https://i.postimg.cc/gJTmnPby/1.jpg",
+    "https://i.postimg.cc/QCKs7nj2/3.jpg",
+    "https://i.postimg.cc/HWF8hq87/6.jpg",
+    "https://i.postimg.cc/T3Jyhh7r/7.jpg",
+    "https://i.postimg.cc/7ZkGxSVH/4.jpg",
   ];
 
   // Sample news data
@@ -239,7 +241,7 @@ const Home: React.FC = () => {
                 transition={{ type: "spring", stiffness: 400, damping: 10 }}
               >
                 <img
-                  src="https://images.unsplash.com/photo-1523240795612-9a054b0db644?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+                  src="https://i.postimg.cc/N0ykX1W3/untitled-1-2100x1000.jpg"
                   alt="SCSSA Team"
                   className="rounded-lg shadow-lg w-full"
                 />

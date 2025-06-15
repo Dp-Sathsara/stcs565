@@ -17,7 +17,7 @@ const Footer: React.FC = () => {
           <div className="flex flex-col space-y-4">
             <div className="flex items-center space-x-4">
               <img
-                src="scssa-logo.png"
+                src="https://i.postimg.cc/rsjbK1rB/logo.png"
                 alt="SCSSA Logo"
                 className="h-16 w-auto object-contain"
               />

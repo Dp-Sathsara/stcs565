@@ -24,59 +24,17 @@ const Events: React.FC = () => {
     {
       id: "1",
       title: "AGM – Annual General Meeting",
-      date: "July 20, 2025",
-      location: "Main Auditorium, Faculty of Science",
+      date: "June 16, 2025",
+      location: "B1 212, Faculty of Science",
       status: "upcoming",
       description:
         "The Annual General Meeting of the Statistics and Computer Science Students' Association will elect the new executive committee for the academic year 2025/2026. All members are encouraged to attend this important event that shapes the future direction of our association.",
       images: [
-        "https://images.unsplash.com/photo-1591115765373-5207764f72e7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
-        "https://images.unsplash.com/photo-1560439514-4e9645039924?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
-        "https://images.unsplash.com/photo-1558008258-3256f47d4e8d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1471&q=80",
+        "https://i.postimg.cc/4Ny31BxF/2.jpg",
+        "https://i.postimg.cc/Y2b9gJMW/1.jpg",
+        "https://i.postimg.cc/m2ngpCcZ/4.jpg",
       ],
-    },
-    {
-      id: "2",
-      title: "Stat Bee Quiz Competition",
-      date: "August 5, 2025",
-      location: "Statistics Lab, Department Building",
-      status: "upcoming",
-      description:
-        "Test your statistical knowledge at our annual Stat Bee Quiz Competition! Open to all students from the department, this event features challenging questions, exciting prizes, and a great opportunity to apply your classroom learning in a competitive environment.",
-      images: [
-        "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
-        "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
-        "https://images.unsplash.com/photo-1605711285791-0219e80e43a3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1469&q=80",
-      ],
-    },
-    {
-      id: "3",
-      title: "Pyquest – Python Workshop",
-      date: "September 15, 2025",
-      location: "Computer Lab 2, Department Building",
-      status: "upcoming",
-      description:
-        "Pquest is an intensive Python programming workshop designed for beginners and intermediate programmers. Learn Python fundamentals, data analysis with pandas, visualization with matplotlib, and practical applications in statistics and data science. Bring your laptop and get ready to code!",
-      images: [
-        "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1469&q=80",
-        "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
-        "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
-      ],
-    },
-    {
-      id: "4",
-      title: "STCS Camp 2026",
-      date: "October 10-12, 2025",
-      location: "University Recreation Center",
-      status: "upcoming",
-      description:
-        "The annual STCS Camp is a three-day residential program combining academic workshops, team-building activities, and industry networking. This year's theme focuses on 'Data Science for Social Good,' featuring guest speakers from leading tech companies and research institutions.",
-      images: [
-        "https://images.unsplash.com/photo-1528605248644-14dd04022da1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
-        "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
-        "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1471&q=80",
-      ],
-    },
+    }, 
   ];
   const getStatusBadge = (status: string) => {
     switch (status) {

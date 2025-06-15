@@ -117,7 +117,7 @@ const About: React.FC = () => {
               represent student interests to the department and university
               administration.
             </p>
-            <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1471&q=80" alt="SCSSA Committee" className="w-full h-64 object-cover rounded-lg mb-6" />
+            <img src="https://i.postimg.cc/c1Ttsvzw/DSC0464.jpg" alt="SCSSA Committee" className="w-full h-64 object-cover rounded-lg mb-6" />
             <div className="text-center">
               <Link to="/exco" className="inline-block bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-md font-medium transition-colors">
                 Meet Our Committee
