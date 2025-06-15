@@ -10,7 +10,7 @@ const allNewsItems = [
     category: "Events",
     date: "August 31, 2024",
     image:
-      "https://images.unsplash.com/photo-1526378722484-bd91ca387e72?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1469&q=80",
+      "https://i.postimg.cc/CLCpV0tB/DSC0492.jpg",
     content: `SCSSA Annual General Meeting 2024; A Celebration of Triumphs and the Dawn of New Horizons.
     
     The 2024 Annual General Meeting (AGM) of the Statistics & Computer Science Students' Association (SCSSA), held on August 31st at the A8 MIT Auditorium, celebrated the conclusion of a remarkable year and the beginning of an exciting new chapter. The outgoing executive committee expressed gratitude to attendees and reflected on the milestones achieved, emphasizing accomplishments that brought pride to SCSSA and highlighted their dedication throughout the year. A presentation of the annual report showcased the association’s achievements, financial status, and future plans, reaffirming its commitment to fostering academic excellence, collaboration, and creativity
@@ -20,8 +20,8 @@ const allNewsItems = [
     
     
     The AGM concluded with heartfelt appreciation for the outgoing committee's contributions, which have laid a strong foundation for future endeavors. The event left a lasting impression on members, inspiring active participation in the association’s vibrant community. With exciting events and initiatives on the horizon, SCSSA is poised to continue thriving, fostering academic success, and making a meaningful impact in the coming year.`,
-    author: "Chandali Nirmitha",
-    authorRole: "Committee Member of SCSSA",
+    author: "",
+    authorRole: "",
   },
   {
     id: "2",
@@ -29,7 +29,7 @@ const allNewsItems = [
     category: "Event",
     date: "November 19, 2024",
     image:
-      "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "https://i.postimg.cc/Jz2q6686/FB-IMG-1749893584205.jpg",
     content: `SCSSA’s Munch Mania 2.0; A Flavor-Fueled Festival of Fun and Unity!
     
     Munch Mania 2.0, a vibrant and exciting two day street food festival, took the University of Kelaniya by storm this November! Organized by the enthusiastic first-year students of the Department of Statistics and Computer Science (DSCS), this unforgettable event unfolded from 19th to 20th behind the A7 building, next to the Science Auditorium. The festival was officially kicked off by Professor Wasana Chandrasekara, who welcomed the crowd to a celebration of flavor, creativity, and community spirit. From 4:00 pm to 6:00 pm each day, the air was filled with the mouthwatering aroma of delicious food, drawing a large and eager crowd who came to indulge in a diverse range of dishes crafted with love and passion. 
@@ -39,8 +39,8 @@ const allNewsItems = [
     Munch Mania 2.0 was not just about food; it was about bringing people together, fostering creativity, and celebrating the strength of the DSCS family. The event served as a perfect example of how unity and hard work can create something extraordinary. 
     
     A huge thank you to all the attendees and supporters who made Munch Mania 2.0 a resounding success. The festival wouldn’t have been possible without you! Stay tuned for more exciting events from SCSSA as we continue to spice up the campus with unforgettable experiences! `,
-    author: "Chandali Nirmitha",
-    authorRole: "Committee Member of SCSSA",
+    author: "",
+    authorRole: "",
   },
   {
     id: "3",
@@ -48,7 +48,7 @@ const allNewsItems = [
     category: "Workshops",
     date: "October 19, 2024",
     image:
-      "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "https://i.postimg.cc/Jzy3k7Lt/last.png",
     content: `SCSSA’s Online Session; Mastering the PhD Application Process in the U.S. 
     
     On the evening of 19th October 2024, the Statistics & Computer Science Students' Association (SCSSA) hosted a highly informative and engaging online session titled "How to Navigate the PhD Application Process in the U.S. (From Application to Admission)". The session, held via Zoom from 8:30 to 9:30 PM, featured Dr. Devindi Rajapaksha, an Assistant Professor of Statistics at the University of Wisconsin - Whitewater, who shared invaluable insights into the journey of applying for PhD programs in top U.S. universities. 
@@ -62,8 +62,8 @@ const allNewsItems = [
     SCSSA’s commitment to supporting its members' academic and professional ambitions continues to shine through initiatives like this one. This session was just a glimpse of the many opportunities SCSSA is bringing to its members, helping them navigate their educational journeys and beyond.
 
     Stay tuned for more events and workshops from SCSSA that empower students to achieve their academic dreams and excel in their careers! `,
-    author: "Chandali Nirmitha",
-    authorRole: "Committee Member of SCSSA",
+    author: "",
+    authorRole: "",
   },
   {
     id: "4",
@@ -79,8 +79,8 @@ const allNewsItems = [
     Mr. Ian’s engaging talk, "Navigating the Path to a Career in Data Science," captivated the audience with practical advice and real-world examples from industries like healthcare and finance. Attendees participated actively in a dynamic Q&A session, delving into emerging trends and strategies for success in the evolving field of data science. The event's interactive nature sparked meaningful discussions, leaving participants inspired and informed.
     
     Datasight'24 underscored SCSSA’s dedication to nurturing talent and promoting innovation in data science. By hosting thought-provoking events like these, SCSSA continues to equip its members with the skills and insights needed to thrive in a data-driven world, solidifying its role as a leader in empowering the next generation of data scientists`,
-    author: "Chandali Nirmitha",
-    authorRole: "Committee Member of SCSSA",
+    author: "",
+    authorRole: "",
   },
   {
     id: "5",
@@ -88,7 +88,7 @@ const allNewsItems = [
     category: "Competition",
     date: "October 17, 2024",
     image:
-      "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "https://i.postimg.cc/nzT9WNJ6/DSC-0207.jpg",
     content: ` Stat Bee 2024, A Thrilling Quiz Competition by SCSSA.
     
     The Statistics and Computer Science Students’ Association (SCSSA) of the Faculty of Science, University of Kelaniya, hosted Stat Bee 2024, an exciting quiz competition held during October and November. Organized by the third-year students of the Department of Statistics and Computer Science, the event provided a platform for first- and second-year students to showcase their knowledge in a fun, competitive setting.
@@ -101,8 +101,8 @@ const allNewsItems = [
     
     The event’s success was due to the hard work and creativity of the third-year organizing team, whose efforts ensured a seamless and engaging experience. By blending competition, learning, and fun, Stat Bee 2024 has set a new standard for student-led initiatives, inspiring students to explore the fascinating world of statistics. `
     ,
-    author: "Chandali Nirmitha",
-    authorRole: "Committee Member of SCSSA",
+    author: "",
+    authorRole: "",
   },
   {
     id: "6",
@@ -110,7 +110,7 @@ const allNewsItems = [
     category: "Workshops",
     date: "December 22, 2024",
     image:
-      "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "https://i.postimg.cc/MG0nMH97/FB-IMG-1749893525554.jpg",
     content: `Charting the Path to a PhD in Australia, An Inspiring Session for Students 
     
     On December 22nd, the Statistics and Computer Science Students’ Association of the Faculty of Science, University of Kelaniya, hosted a special online session that left attendees inspired and motivated. Titled "Pathway to a PhD in Australia: Opportunities and Application Insights," the event brought together curious students and a remarkable speaker to discuss pursuing higher education abroad.
@@ -123,8 +123,8 @@ const allNewsItems = [
 
     This initiative by the Statistics and Computer Science Students’ Association reflects its dedication to empowering students to dream big and take bold steps toward their academic and career goals.
     `,
-    author: "Chandali Nirmitha",
-    authorRole: "Committee Member of SCSSA",
+    author: "",
+    authorRole: "",
   },
   {
     id: "7",
@@ -132,7 +132,7 @@ const allNewsItems = [
     category: "Workshops",
     date: "November 16, 2024",
     image:
-      "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "https://i.postimg.cc/xCkPVKff/wall.png",
     content: `PyQuest24: A Journey into Python Programming 
     
     The Statistics and Computer Science Students' Association (SCSSA) of the Faculty of Science, University of Kelaniya, successfully hosted PyQuest24, an engaging virtual programming workshop that kicked off on Saturday, November 16, 2024. Designed to cater to both beginners and those with advanced knowledge, the workshop provided an excellent platform for students to enhance their Python programming skills.
@@ -146,8 +146,8 @@ const allNewsItems = [
     PyQuest24 was more than just a workshop,it was an opportunity for students to learn, practice, and grow. By combining hands-on training with real-world applications, SCSSA successfully created an inspiring learning experience that left participants excited about the possibilities of Python programming. 
 
     `,
-    author: "Chandali Nirmitha",
-    authorRole: "Committee Member of SCSSA",
+    author: "",
+    authorRole: "",
   },
   {
     id: "8",
@@ -155,7 +155,7 @@ const allNewsItems = [
     category: "Event",
     date: "January 11, 2025",
     image:
-      "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "https://i.postimg.cc/dQrx7YFq/FB-IMG-1749893510703.jpg",
     content: `STCS Camp 2025 – A Day of Unity, Adventure & Growth 
     
     Location: Che Adventure Park, Hanwella | Date: 11th January 2025
@@ -173,8 +173,8 @@ const allNewsItems = [
     Here’s to more inspiring STCS Camps in the future!
     
     `,
-    author: "Chandali Nirmitha",
-    authorRole: "Committee Member of SCSSA",
+    author: "",
+    authorRole: "",
   },
 ];
 

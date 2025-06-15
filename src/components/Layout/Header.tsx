@@ -13,7 +13,7 @@ const Header: React.FC = () => {
         
         {/* Logo and Text */}
         <Link to="/" className="flex items-center space-x-3">
-          <img src="https://i.postimg.cc/y8Tc8jXd/SCSSA-Logo2.jpg" alt="SCSSA Logo" className="h-10 md:h-12" />
+          <img src="https://i.postimg.cc/rsjbK1rB/logo.png" alt="SCSSA Logo" className="h-10 md:h-12" />
           <div className="flex flex-col leading-tight">
             <span className="text-lg md:text-xl font-bold text-gray-1000 dark:text-white">SCSSA</span>
             <span className="text-sm text-gray-600 dark:text-gray-300">University Of Kelaniya</span>

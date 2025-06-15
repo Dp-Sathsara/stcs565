@@ -100,7 +100,7 @@ const Home: React.FC = () => {
     category: "Workshops",
     date: "November 16, 2024",
     image:
-      "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "https://i.postimg.cc/xCkPVKff/wall.png",
     summary:
       "PyQuest24: A Journey into Python Programming.",
   },
@@ -110,7 +110,7 @@ const Home: React.FC = () => {
     category: "Event",
     date: "January 11, 2025",
     image:
-      "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "https://i.postimg.cc/dQrx7YFq/FB-IMG-1749893510703.jpg",
     summary:
       "STCS Camp 2025, held on 11th January at Che Adventure Park, united over 100 undergraduates for a day of adventure, leadership activities, and industry insights, promoting teamwork, personal growth, and a strong sense of community.",
     },
@@ -120,7 +120,7 @@ const Home: React.FC = () => {
     category: "Competition",
     date: "October 17, 2024",
     image:
-      "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "https://i.postimg.cc/nzT9WNJ6/DSC-0207.jpg",
     summary:
       "Join our upcoming workshop on machine learning fundamentals led by industry experts. Perfect for beginners and intermediate learners.",
     },

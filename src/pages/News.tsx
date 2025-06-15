@@ -9,7 +9,7 @@ const allNewsItems = [
     category: "Events",
     date: "August 31, 2024",
     image:
-      "https://images.unsplash.com/photo-1526378722484-bd91ca387e72?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1469&q=80",
+      "https://i.postimg.cc/CLCpV0tB/DSC0492.jpg",
     summary:
       "SCSSA Annual General Meeting 2024; A Celebration of Triumphs and the Dawn of New Horizons.",
   },
@@ -19,7 +19,7 @@ const allNewsItems = [
     category: "Events",
     date: "November 19, 2024",
     image:
-      "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "https://i.postimg.cc/Jz2q6686/FB-IMG-1749893584205.jpg",
     summary:
       "SCSSA’s Munch Mania 2.0; A Flavor-Fueled Festival of Fun and Unity!.",
   },
@@ -29,7 +29,7 @@ const allNewsItems = [
     category: "Workshops",
     date: "October 19, 2024",
     image:
-      "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "https://i.postimg.cc/Jzy3k7Lt/last.png",
     summary:
       "SSCSSA’s Online Session; Mastering the PhD Application Process in the U.S. ",
   },
@@ -49,7 +49,7 @@ const allNewsItems = [
     category: "Competition",
     date: "October 17, 2024",
     image:
-      "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "https://i.postimg.cc/nzT9WNJ6/DSC-0207.jpg",
     summary:
       "Join our upcoming workshop on machine learning fundamentals led by industry experts. Perfect for beginners and intermediate learners.",
   },
@@ -59,7 +59,7 @@ const allNewsItems = [
     category: "Workshops",
     date: "December 22, 2024",
     image:
-      "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "https://i.postimg.cc/MG0nMH97/FB-IMG-1749893525554.jpg",
     summary:
       "Charting the Path to a PhD in Australia, An Inspiring Session for Students.",
   },
@@ -69,7 +69,7 @@ const allNewsItems = [
     category: "Workshops",
     date: "November 16, 2024",
     image:
-      "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "https://i.postimg.cc/xCkPVKff/wall.png",
     summary:
       "PyQuest24: A Journey into Python Programming.",
   },
@@ -79,7 +79,7 @@ const allNewsItems = [
     category: "Event",
     date: "January 11, 2025",
     image:
-      "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "https://i.postimg.cc/dQrx7YFq/FB-IMG-1749893510703.jpg",
     summary:
       "STCS Camp 2025, held on 11th January at Che Adventure Park, united over 100 undergraduates for a day of adventure, leadership activities, and industry insights, promoting teamwork, personal growth, and a strong sense of community.",
   },
